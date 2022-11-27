@@ -1,0 +1,11 @@
+MinDisk/.vs/
+MinDisk/bin/
+MinDisk/obj/
+MinDisk/Properties/
+MinDisk/MinDisk.csproj
+
+Present/.vs/
+Present/bin/
+Present/obj/
+Present/Properties/
+Present/Present.csproj
